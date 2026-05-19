@@ -1,0 +1,283 @@
+{
+  "@@locale": "fr",
+  "appTitle": "CartoVec - PFA",
+  "@appTitle": {
+    "description": "Titre principal de l'application"
+  },
+  "home": "Accueil",
+  "@home": {
+    "description": "Label de navigation vers la page d'accueil"
+  },
+  "architecture": "Architecture",
+  "@architecture": {
+    "description": "Label de navigation vers la page architecture"
+  },
+  "timeline": "Chronologie",
+  "@timeline": {
+    "description": "Label de navigation vers la page chronologie"
+  },
+  "bibliography": "Bibliographie",
+  "@bibliography": {
+    "description": "Label de navigation vers la page bibliographie"
+  },
+  "projectTitle": "CartoVec",
+  "@projectTitle": {
+    "description": "Nom du projet"
+  },
+  "projectSubtitle": "Vectorisation Automatique de Cartes Historiques",
+  "@projectSubtitle": {
+    "description": "Sous-titre décrivant le projet"
+  },
+  "projectDescription": "CartoVec transforme des cartes topographiques raster scannées en couches vectorielles exploitables dans un SIG. Le projet combine un pipeline Python (OpenCV/PyTorch/GeoPandas), un agent IA basé sur LangGraph, une API Django REST et une interface React/Vite avec Leaflet.",
+  "@projectDescription": {
+    "description": "Description détaillée du projet pour la page d'accueil"
+  },
+  "student": "Étudiant",
+  "@student": {
+    "description": "Label pour le nom de l'étudiant"
+  },
+  "supervisor": "Encadrant",
+  "@supervisor": {
+    "description": "Label pour le nom du superviseur"
+  },
+  "school": "École",
+  "@school": {
+    "description": "Label pour le nom de l'école"
+  },
+  "year": "Année",
+  "@year": {
+    "description": "Label pour l'année académique"
+  },
+  "exploreProject": "Explorer le projet",
+  "@exploreProject": {
+    "description": "Titre de la section navigation"
+  },
+  "presentation": "Présentation",
+  "@presentation": {
+    "description": "Titre de la section présentation"
+  },
+  "technologies": "Technologies",
+  "@technologies": {
+    "description": "Label pour la liste des technologies"
+  },
+  "features": "Fonctionnalités",
+  "@features": {
+    "description": "Label pour la liste des fonctionnalités"
+  },
+  "pipeline": "Pipeline de Traitement",
+  "@pipeline": {
+    "description": "Titre de la section pipeline"
+  },
+  "preprocessing": "Prétraitement",
+  "@preprocessing": {
+    "description": "Étape 1: Prétraitement de l'image"
+  },
+  "colorSegmentation": "Segmentation Couleur",
+  "@colorSegmentation": {
+    "description": "Étape 2: Segmentation par couleur HSV"
+  },
+  "aiSegmentation": "Segmentation IA",
+  "@aiSegmentation": {
+    "description": "Étape 3: Segmentation par IA (U-Net)"
+  },
+  "postProcessing": "Post-traitement",
+  "@postProcessing": {
+    "description": "Étape 4: Nettoyage et vectorisation"
+  },
+  "georeferencing": "Géoréférencement",
+  "@georeferencing": {
+    "description": "Étape 5: Attribution de coordonnées géographiques"
+  },
+  "export": "Export & Visualisation",
+  "@export": {
+    "description": "Étape 6: Export des résultats"
+  },
+  "techStack": "Stack Technique",
+  "@techStack": {
+    "description": "Titre de la section technologies"
+  },
+  "dataFlow": "Flux de Données",
+  "@dataFlow": {
+    "description": "Titre de la section flux de données"
+  },
+  "progress": "Progression",
+  "@progress": {
+    "description": "Label pour l'indicateur de progression"
+  },
+  "completed": "Terminé",
+  "@completed": {
+    "description": "Badge pour une étape terminée"
+  },
+  "inProgress": "En cours",
+  "@inProgress": {
+    "description": "Badge pour une étape en cours"
+  },
+  "globalProgress": "Progression Globale",
+  "@globalProgress": {
+    "description": "Titre de la section progression globale"
+  },
+  "stepsCompleted": "étapes complétées",
+  "@stepsCompleted": {
+    "description": "Texte affichant le nombre d'étapes complétées"
+  },
+  "keyMetrics": "Métriques Clés",
+  "@keyMetrics": {
+    "description": "Titre de la section métriques"
+  },
+  "references": "Références Bibliographiques",
+  "@references": {
+    "description": "Titre de la section références"
+  },
+  "acknowledgments": "Remerciements",
+  "@acknowledgments": {
+    "description": "Titre de la section remerciements"
+  },
+  "licenses": "Licences",
+  "@licenses": {
+    "description": "Titre de la section licences"
+  },
+  "contact": "Contact",
+  "@contact": {
+    "description": "Label pour les informations de contact"
+  },
+  "pfaProject": "Projet de Fin d''Année",
+  "@pfaProject": {
+    "description": "Label indiquant le type de projet"
+  },
+  "geomatics": "Géomatique",
+  "@geomatics": {
+    "description": "Filière d'études"
+  },
+  "secondYear": "2ème Année",
+  "@secondYear": {
+    "description": "Niveau d'études"
+  },
+  "dataset": "Dataset",
+  "@dataset": {
+    "description": "Type de référence: jeu de données"
+  },
+  "article": "Article",
+  "@article": {
+    "description": "Type de référence: article scientifique"
+  },
+  "competition": "Compétition",
+  "@competition": {
+    "description": "Type de référence: compétition"
+  },
+  "library": "Bibliothèque",
+  "@library": {
+    "description": "Type de référence: bibliothèque logicielle"
+  },
+  "documentation": "Documentation",
+  "@documentation": {
+    "description": "Type de référence: documentation"
+  },
+  "raster": "Raster",
+  "@raster": {
+    "description": "Type de données: image raster"
+  },
+  "api": "API",
+  "@api": {
+    "description": "Interface de programmation"
+  },
+  "frontend": "Frontend",
+  "@frontend": {
+    "description": "Partie interface utilisateur"
+  },
+  "backend": "Backend",
+  "@backend": {
+    "description": "Partie serveur et traitement"
+  },
+  "output": "Output",
+  "@output": {
+    "description": "Résultat final du pipeline"
+  },
+  "loading": "Chargement...",
+  "@loading": {
+    "description": "Message de chargement"
+  },
+  "error": "Erreur",
+  "@error": {
+    "description": "Message d'erreur"
+  },
+  "retry": "Réessayer",
+  "@retry": {
+    "description": "Bouton de réessai"
+  },
+  "close": "Fermer",
+  "@close": {
+    "description": "Bouton de fermeture"
+  },
+  "open": "Ouvrir",
+  "@open": {
+    "description": "Bouton d'ouverture"
+  },
+  "details": "Détails",
+  "@details": {
+    "description": "Bouton de détails"
+  },
+  "more": "Plus",
+  "@more": {
+    "description": "Bouton pour voir plus"
+  },
+  "less": "Moins",
+  "@less": {
+    "description": "Bouton pour voir moins"
+  },
+  "next": "Suivant",
+  "@next": {
+    "description": "Bouton navigation suivante"
+  },
+  "previous": "Précédent",
+  "@previous": {
+    "description": "Bouton navigation précédente"
+  },
+  "search": "Rechercher",
+  "@search": {
+    "description": "Bouton de recherche"
+  },
+  "filter": "Filtrer",
+  "@filter": {
+    "description": "Bouton de filtrage"
+  },
+  "sort": "Trier",
+  "@sort": {
+    "description": "Bouton de tri"
+  },
+  "all": "Tout",
+  "@all": {
+    "description": "Option de filtre: tout"
+  },
+  "none": "Aucun",
+  "@none": {
+    "description": "Option de filtre: aucun"
+  },
+  "selectLanguage": "Choisir la langue",
+  "@selectLanguage": {
+    "description": "Titre du sélecteur de langue"
+  },
+  "french": "Français",
+  "@french": {
+    "description": "Nom de la langue française"
+  },
+  "arabic": "العربية",
+  "@arabic": {
+    "description": "Nom de la langue arabe"
+  },
+  "english": "English",
+  "@english": {
+    "description": "Nom de la langue anglaise"
+  },
+  "languageChanged": "Langue changée avec succès",
+  "@languageChanged": {
+    "description": "Message de confirmation de changement de langue"
+  },
+  "copyright": "CartoVec © 2025",
+  "@copyright": {
+    "description": "Texte de copyright"
+  },
+  "rightsReserved": "Tous droits réservés",
+  "@rightsReserved": {
+    "description": "Texte de droits réservés"
+  }
+}

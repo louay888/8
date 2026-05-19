@@ -1,0 +1,283 @@
+{
+  "@@locale": "ar",
+  "appTitle": "كارتوفيك - مشروع نهاية السنة",
+  "@appTitle": {
+    "description": "عنوان التطبيق الرئيسي"
+  },
+  "home": "الرئيسية",
+  "@home": {
+    "description": "تسمية التنقل إلى الصفحة الرئيسية"
+  },
+  "architecture": "الهيكلة",
+  "@architecture": {
+    "description": "تسمية التنقل إلى صفحة الهيكلة"
+  },
+  "timeline": "الجدول الزمني",
+  "@timeline": {
+    "description": "تسمية التنقل إلى صفحة الجدول الزمني"
+  },
+  "bibliography": "المراجع",
+  "@bibliography": {
+    "description": "تسمية التنقل إلى صفحة المراجع"
+  },
+  "projectTitle": "كارتوفيك",
+  "@projectTitle": {
+    "description": "اسم المشروع"
+  },
+  "projectSubtitle": "تحويل تلقائي للخرائط التاريخية إلى متجهات",
+  "@projectSubtitle": {
+    "description": "العنوان الفرعي لوصف المشروع"
+  },
+  "projectDescription": "يقوم كارتوفيك بتحويل الخرائط الطبوغرافية الممسوحة ضوئياً إلى طبقات متجهة قابلة للاستخدام في نظام المعلومات الجغرافية. يجمع المشروع بين خط أنابيب بايثون (OpenCV/PyTorch/GeoPandas)، ووكيل ذكاء اصطناعي مبني على LangGraph، وواجهة برمجة تطبيقات Django REST، وواجهة React/Vite مع Leaflet.",
+  "@projectDescription": {
+    "description": "وصف تفصيلي للمشروع في الصفحة الرئيسية"
+  },
+  "student": "الطالب",
+  "@student": {
+    "description": "تسمية اسم الطالب"
+  },
+  "supervisor": "المشرف",
+  "@supervisor": {
+    "description": "تسمية اسم المشرف"
+  },
+  "school": "المدرسة",
+  "@school": {
+    "description": "تسمية اسم المدرسة"
+  },
+  "year": "السنة",
+  "@year": {
+    "description": "تسمية السنة الدراسية"
+  },
+  "exploreProject": "استكشف المشروع",
+  "@exploreProject": {
+    "description": "عنوان قسم التنقل"
+  },
+  "presentation": "العرض",
+  "@presentation": {
+    "description": "عنوان قسم العرض"
+  },
+  "technologies": "التقنيات",
+  "@technologies": {
+    "description": "تسمية قائمة التقنيات"
+  },
+  "features": "الميزات",
+  "@features": {
+    "description": "تسمية قائمة الميزات"
+  },
+  "pipeline": "خط الأنابيب",
+  "@pipeline": {
+    "description": "عنوان قسم خط الأنابيب"
+  },
+  "preprocessing": "المعالجة المسبقة",
+  "@preprocessing": {
+    "description": "الخطوة 1: المعالجة المسبقة للصورة"
+  },
+  "colorSegmentation": "تجزئة الألوان",
+  "@colorSegmentation": {
+    "description": "الخطوة 2: التجزئة بالألوان HSV"
+  },
+  "aiSegmentation": "التجزئة بالذكاء الاصطناعي",
+  "@aiSegmentation": {
+    "description": "الخطوة 3: التجزئة بالذكاء الاصطناعي (U-Net)"
+  },
+  "postProcessing": "المعالجة اللاحقة",
+  "@postProcessing": {
+    "description": "الخطوة 4: التنظيف والتحويل إلى متجهات"
+  },
+  "georeferencing": "التحديد الجغرافي",
+  "@georeferencing": {
+    "description": "الخطوة 5: إسناد الإحداثيات الجغرافية"
+  },
+  "export": "التصدير والعرض",
+  "@export": {
+    "description": "الخطوة 6: تصدير النتائج"
+  },
+  "techStack": "المكدس التقني",
+  "@techStack": {
+    "description": "عنوان قسم التقنيات"
+  },
+  "dataFlow": "تدفق البيانات",
+  "@dataFlow": {
+    "description": "عنوان قسم تدفق البيانات"
+  },
+  "progress": "التقدم",
+  "@progress": {
+    "description": "تسمية مؤشر التقدم"
+  },
+  "completed": "مكتمل",
+  "@completed": {
+    "description": "شارة للخطوة المكتملة"
+  },
+  "inProgress": "قيد التنفيذ",
+  "@inProgress": {
+    "description": "شارة للخطوة قيد التنفيذ"
+  },
+  "globalProgress": "التقدم العام",
+  "@globalProgress": {
+    "description": "عنوان قسم التقدم العام"
+  },
+  "stepsCompleted": "خطوات مكتملة",
+  "@stepsCompleted": {
+    "description": "نص يعرض عدد الخطوات المكتملة"
+  },
+  "keyMetrics": "المقاييس الرئيسية",
+  "@keyMetrics": {
+    "description": "عنوان قسم المقاييس"
+  },
+  "references": "المراجع الببليوغرافية",
+  "@references": {
+    "description": "عنوان قسم المراجع"
+  },
+  "acknowledgments": "الشكر والتقدير",
+  "@acknowledgments": {
+    "description": "عنوان قسم الشكر والتقدير"
+  },
+  "licenses": "التراخيص",
+  "@licenses": {
+    "description": "عنوان قسم التراخيص"
+  },
+  "contact": "الاتصال",
+  "@contact": {
+    "description": "تسمية معلومات الاتصال"
+  },
+  "pfaProject": "مشروع نهاية السنة",
+  "@pfaProject": {
+    "description": "تسمية نوع المشروع"
+  },
+  "geomatics": "الجيوماتيك",
+  "@geomatics": {
+    "description": "تخصص الدراسة"
+  },
+  "secondYear": "السنة الثانية",
+  "@secondYear": {
+    "description": "المستوى الدراسي"
+  },
+  "dataset": "مجموعة البيانات",
+  "@dataset": {
+    "description": "نوع المرجع: مجموعة بيانات"
+  },
+  "article": "مقال",
+  "@article": {
+    "description": "نوع المرجع: مقال علمي"
+  },
+  "competition": "مسابقة",
+  "@competition": {
+    "description": "نوع المرجع: مسابقة"
+  },
+  "library": "مكتبة",
+  "@library": {
+    "description": "نوع المرجع: مكتبة برمجية"
+  },
+  "documentation": "التوثيق",
+  "@documentation": {
+    "description": "نوع المرجع: توثيق"
+  },
+  "raster": "الصورة النقطية",
+  "@raster": {
+    "description": "نوع البيانات: صورة نقطية"
+  },
+  "api": "واجهة البرمجة",
+  "@api": {
+    "description": "واجهة برمجة التطبيقات"
+  },
+  "frontend": "الواجهة الأمامية",
+  "@frontend": {
+    "description": "جزء واجهة المستخدم"
+  },
+  "backend": "الواجهة الخلفية",
+  "@backend": {
+    "description": "جزء الخادم والمعالجة"
+  },
+  "output": "المخرجات",
+  "@output": {
+    "description": "النتيجة النهائية لخط الأنابيب"
+  },
+  "loading": "جاري التحميل...",
+  "@loading": {
+    "description": "رسالة التحميل"
+  },
+  "error": "خطأ",
+  "@error": {
+    "description": "رسالة خطأ"
+  },
+  "retry": "إعادة المحاولة",
+  "@retry": {
+    "description": "زر إعادة المحاولة"
+  },
+  "close": "إغلاق",
+  "@close": {
+    "description": "زر الإغلاق"
+  },
+  "open": "فتح",
+  "@open": {
+    "description": "زر الفتح"
+  },
+  "details": "التفاصيل",
+  "@details": {
+    "description": "زر التفاصيل"
+  },
+  "more": "المزيد",
+  "@more": {
+    "description": "زر لرؤية المزيد"
+  },
+  "less": "أقل",
+  "@less": {
+    "description": "زر لرؤية أقل"
+  },
+  "next": "التالي",
+  "@next": {
+    "description": "زر التنقل التالي"
+  },
+  "previous": "السابق",
+  "@previous": {
+    "description": "زر التنقل السابق"
+  },
+  "search": "بحث",
+  "@search": {
+    "description": "زر البحث"
+  },
+  "filter": "تصفية",
+  "@filter": {
+    "description": "زر التصفية"
+  },
+  "sort": "ترتيب",
+  "@sort": {
+    "description": "زر الترتيب"
+  },
+  "all": "الكل",
+  "@all": {
+    "description": "خيار التصفية: الكل"
+  },
+  "none": "لا شيء",
+  "@none": {
+    "description": "خيار التصفية: لا شيء"
+  },
+  "selectLanguage": "اختر اللغة",
+  "@selectLanguage": {
+    "description": "عنوان محدد اللغة"
+  },
+  "french": "Français",
+  "@french": {
+    "description": "اسم اللغة الفرنسية"
+  },
+  "arabic": "العربية",
+  "@arabic": {
+    "description": "اسم اللغة العربية"
+  },
+  "english": "English",
+  "@english": {
+    "description": "اسم اللغة الإنجليزية"
+  },
+  "languageChanged": "تم تغيير اللغة بنجاح",
+  "@languageChanged": {
+    "description": "رسالة تأكيد تغيير اللغة"
+  },
+  "copyright": "كارتوفيك © 2025",
+  "@copyright": {
+    "description": "نص حقوق النشر"
+  },
+  "rightsReserved": "جميع الحقوق محفوظة",
+  "@rightsReserved": {
+    "description": "نص الحقوق محفوظة"
+  }
+}
