@@ -1,5 +1,5 @@
-# CartoVec 🗺️
-> Automated vectorization of historical topographic maps using AI — PFA 2025–2026 · Géomatique EABA
+# SSR
+> Super resolution spectral
 
 ---
 
@@ -113,7 +113,7 @@ Change `localhost` to your machine's local IP address (e.g. `192.168.x.x`).
 
 ## 👤 Author
 
-- **Student:** Louay  
-- **Supervisor:** M. Kamel BENRAIS (ELFOULADH)  
+- **Student:** Louay Jamli  
+- **Supervisor:** Lt Bhenkhlifa Aymen
 - **School:** EABA — Formation en Géomatique  
 - **Year:** 2025–2026
