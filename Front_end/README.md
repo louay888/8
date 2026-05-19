@@ -86,16 +86,3 @@ lib/
 └── main.dart
 ```
 
-## 📄 Auteur
-
-**Oussama CHOUAIBI**  
-Étudiant en Géomatique - EABA Tunisie  
-Encadrant : Kamel BENRAIS (ELFOULADH)
-
-## 📧 Contact
-
-ochouaibi1919@gmail.com
-
----
-
-**CartoVec © 2026** - Projet de Fin d'Année
