@@ -106,8 +106,7 @@ Change `localhost` to your machine's local IP address (e.g. `192.168.x.x`).
 | Mobile App | Flutter / Dart |
 | Backend API | Django REST Framework |
 | AI Pipeline | PyTorch, OpenCV, SMP |
-| Geospatial | GeoPandas, Rasterio, GDAL |
-| Output Formats | GeoJSON, Shapefile, World File |
+
 
 ---
 
